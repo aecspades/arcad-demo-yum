@@ -32,7 +32,9 @@ yum install /home/ACLARK/rpmbuild/RPMS/ppc64/arcad-demo-1.0.0-1.ibmi7.4.ppc64.rp
 
 
 See:
+<p/>
 https://www.redhat.com/sysadmin/create-rpm-package
+<p/>
 https://github.com/kadler/rpm-lab
 
 
